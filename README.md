@@ -13,4 +13,6 @@
 
 ![Screen Shot 2022-05-29 at 4 13 57 PM](https://user-images.githubusercontent.com/99203797/170891904-154e7f76-861e-43f2-a8f8-cb47ee7d0abb.png)
 
+[PPD General CRF Completion Guidelines .pdf](https://github.com/cranotes/CMD_FULL_COURSE---Session-Three---Study-Start-Up-Requirements/files/8794323/PPD.General.CRF.Completion.Guidelines.pdf)
+
 ![Screen Shot 2022-05-29 at 4 21 14 PM](https://user-images.githubusercontent.com/99203797/170891905-bed90817-8451-4578-89a5-c63d5b5575e0.png)
